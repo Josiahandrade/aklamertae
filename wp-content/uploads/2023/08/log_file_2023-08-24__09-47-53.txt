@@ -1,0 +1,82 @@
+
+---Upload files---
+Redux file was not uploaded. Error: No file provided.
+
+---Upload files---
+The import files were successfully uploaded!
+Initial max execution time = 120
+Files info:
+Site URL = http://localhost/aklamertae
+Data file = C:\xampp\htdocs\aklamertae/wp-content/uploads/2023/08/content.xml
+Widget file = C:\xampp\htdocs\aklamertae/wp-content/uploads/2023/08/widgets.wie
+Customizer file = C:\xampp\htdocs\aklamertae/wp-content/uploads/2023/08/customizer.dat
+Redux files:
+not defined!
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+---Importing widgets---
+Sidebar : 
+
+Adore Widget: Trending Posts Widget - Trending News - Imported
+Adore Widget: Posts Carousel Widget - Scientific Discoveries - Imported
+Adore Widget: Social Widget - Follow us on: - Imported
+
+Below Banner Primary Widgets Area : 
+
+Block - No Title - Imported
+Adore Widget: Grid Posts Widget - Space Exploration News - Imported
+Adore Widget: Featured Posts Widget - Scientific News - Imported
+Adore Widget: Most Read Widget - Policies News - Imported
+Adore Widget: Posts Carousel Widget - Educational News - Imported
+Block - No Title - Imported
+Adore Widget: Express List Widget - Lifestyle Choices - Imported
+
+Below Banner Secondary Widgets Area : 
+
+Adore Widget: Grid Posts Widget - Public Health News - Imported
+Adore Widget: Trending Posts Widget - Trending News - Imported
+Adore Widget: Posts Carousel Widget - Scientific Discoveries - Imported
+Adore Widget: Social Widget - Follow us on: - Imported
+
+Above Footer Widgets Area : 
+
+Adore Widget: Posts Carousel Widget - Market Research - Imported
+Adore Widget: Most Read Widget - Research Studies - Imported
+Adore Widget: Grid Posts Widget - Urban Planning - Imported
+
+Footer Widget Area 1 : 
+
+Block - No Title - Imported
+Block - No Title - Imported
+Adore Widget: Social Widget - Follow us on: - Imported
+
+Footer Widget Area 2 : 
+
+Adore Widget: Most Read Widget - Online Learning - Imported
+
+Footer Widget Area 3 : 
+
+Adore Widget: Most Read Widget - Most Read - Imported
+
+Footer Widget Area 4 : 
+
+Adore Widget: Trending Posts Widget - Trending News - Imported
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---ocdi/after_import---
+
